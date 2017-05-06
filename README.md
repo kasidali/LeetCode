@@ -3,4 +3,5 @@
 |#     | Title | Solution | Difficulty |
 | ---- | ----- | -------- | ---------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/)|[JavaScript](https://github.com/kasidali/LeetCode/blob/master/1_TwoSum.js) | Easy |
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript]() | Medium |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript]
+(LeetCode/2_AddTwoNumbers.js) | Medium |
